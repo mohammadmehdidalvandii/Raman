@@ -1,0 +1,34 @@
+/* (fonts) */
+
+@font-face {
+    font-family: iranblack;
+    src: url(../font/IRANSansWeb_Black.woff);
+}
+
+@font-face {
+    font-family: iranBold;
+    src: url(../font/IRANSansWeb_Bold.woff);
+}
+
+@font-face {
+    font-family: iranMedium;
+    src: url(../font/IRANSansWeb_Medium.woff);
+}
+
+@font-face {
+    font-family: iranLighr;
+    src: url(../font/IRANSansWeb_Light.woff);
+}
+
+
+/* (container) */
+
+.container{
+    max-width: 80rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+
